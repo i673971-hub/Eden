@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" preserveAspectRatio="xMidYMax meet" aria-hidden="true">
+  <defs>
+    <linearGradient id="r" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161c26"/>
+      <stop offset="1" stop-color="#07080a"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#r)">
+    <path d="M60 420 L60 180 L120 120 L180 180 L180 420 Z"/>
+    <path d="M240 420 L240 90 L300 40 L340 80 L340 420 Z"/>
+    <path d="M420 420 L420 220 L470 170 L520 220 L520 300 L470 260 L420 420 Z"/>
+    <path d="M1080 420 L1080 210 L1140 150 L1150 420 Z"/>
+    <path d="M1260 420 L1260 60 L1310 20 L1360 70 L1355 200 L1300 160 L1300 420 Z"/>
+    <path d="M1460 420 L1460 190 L1510 140 L1540 190 L1540 420 Z"/>
+    <rect x="0" y="400" width="1600" height="20"/>
+  </g>
+</svg>
